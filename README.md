@@ -46,3 +46,49 @@ Este proyecto incluye la implementación de diferentes escenas y animaciones 3D 
 ---
 
 ## 📁 Estructura del Proyecto
+OpenGL-Proyecto-Computacion-Grafica
+│
+├── ejercicios
+│ ├── ejercicio-a.cpp
+│ ├── ejercicio-b.cpp
+│ ├── ejercicio-c.cpp
+│ ├── ejercicio-d.cpp
+│ ├── ejercicio-e.cpp
+│ ├── ejercicio-f.cpp
+│ ├── ejercicio-g.cpp
+│ ├── ejercicio-h.cpp
+│ ├── ejercicio-i.cpp
+│ ├── ejercicio-j.cpp
+│ ├── ejercicio-k.cpp
+│ ├── ejercicio-l.cpp
+│ └── ejercicio-m.cpp
+
+
+---
+
+## ▶️ Cómo ejecutar
+
+1. Abrir el proyecto en Visual Studio
+2. Configurar OpenGL y GLUT
+3. Compilar el programa
+4. Ejecutar el ejercicio deseado
+
+---
+
+## 🎯 Objetivo
+
+Aplicar los conceptos fundamentales de computación gráfica mediante la implementación de escenas interactivas en 3D.
+
+---
+
+## 👨‍💻 Autor
+
+Estudiante de Ingeniería de Sistemas  
+Curso: Computación Gráfica  
+Universidad: UPN
+
+---
+
+## 📅 Año
+
+2026
