@@ -46,22 +46,26 @@ Este proyecto incluye la implementación de diferentes escenas y animaciones 3D 
 ---
 
 ## 📁 Estructura del Proyecto
+
+```
 OpenGL-Proyecto-Computacion-Grafica
 │
 ├── ejercicios
-│ ├── ejercicio-a.cpp
-│ ├── ejercicio-b.cpp
-│ ├── ejercicio-c.cpp
-│ ├── ejercicio-d.cpp
-│ ├── ejercicio-e.cpp
-│ ├── ejercicio-f.cpp
-│ ├── ejercicio-g.cpp
-│ ├── ejercicio-h.cpp
-│ ├── ejercicio-i.cpp
-│ ├── ejercicio-j.cpp
-│ ├── ejercicio-k.cpp
-│ ├── ejercicio-l.cpp
-│ └── ejercicio-m.cpp
+│   ├── ejercicio-a.cpp
+│   ├── ejercicio-b.cpp
+│   ├── ejercicio-c.cpp
+│   ├── ejercicio-d.cpp
+│   ├── ejercicio-e.cpp
+│   ├── ejercicio-f.cpp
+│   ├── ejercicio-g.cpp
+│   ├── ejercicio-h.cpp
+│   ├── ejercicio-i.cpp
+│   ├── ejercicio-j.cpp
+│   ├── ejercicio-k.cpp
+│   ├── ejercicio-l.cpp
+│   └── ejercicio-m.cpp
+```
+
 
 
 ---
