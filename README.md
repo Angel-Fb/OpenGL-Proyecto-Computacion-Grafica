@@ -2,7 +2,7 @@
 
 Repositorio que contiene una colección de ejercicios desarrollados en **C++ utilizando OpenGL y GLUT**, como parte del curso de **Computación Gráfica**.
 
-## 📌 Descripción
+##  Descripción
 
 Este proyecto incluye la implementación de diferentes escenas y animaciones 3D utilizando OpenGL, donde se aplican conceptos como:
 
@@ -16,7 +16,7 @@ Este proyecto incluye la implementación de diferentes escenas y animaciones 3D 
 
 ---
 
-## 🧩 Ejercicios
+##  Ejercicios
 
 | Ejercicio | Descripción |
 |-----------|-------------|
@@ -36,7 +36,7 @@ Este proyecto incluye la implementación de diferentes escenas y animaciones 3D 
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - C++
 - OpenGL
@@ -45,7 +45,7 @@ Este proyecto incluye la implementación de diferentes escenas y animaciones 3D 
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 OpenGL-Proyecto-Computacion-Grafica
@@ -70,7 +70,7 @@ OpenGL-Proyecto-Computacion-Grafica
 
 ---
 
-## ▶️ Cómo ejecutar
+##  Cómo ejecutar
 
 1. Abrir el proyecto en Visual Studio
 2. Configurar OpenGL y GLUT
@@ -79,13 +79,13 @@ OpenGL-Proyecto-Computacion-Grafica
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Aplicar los conceptos fundamentales de computación gráfica mediante la implementación de escenas interactivas en 3D.
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Estudiante de Ingeniería de Sistemas  
 Curso: Computación Gráfica  
